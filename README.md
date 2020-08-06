@@ -1,11 +1,34 @@
 ### Hi there, I'm Junhua, or June 👋
 
-## I'm a Student, Gamer, and Wannabe Coder!
+## I'm a Student, Gamer, and Wannabe Programmer!
 - 🔭 I’m currently working on a B.A. in Neuroscience!
 - 🌱 I want to learn everything 🤣
 - 👯 I’m currently looking for a Data Science job
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I am a textbook INFJ personality type.
+
+---
+
+### ⭐ Some Project Repos
+
+- [Predicting: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
+
+
+---
+
+### 📕 Latest Blog Posts
+
+- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
+
+
+---
+
+### 📺 Latest YouTube Videos
+
+- [Next Level GitHub Profile README (NEW) | How To Create An Amazing Profile ReadMe With GitHub Actions](https://www.youtube.com/watch?v=ECuqb5Tv9qI)
+
+
+---
 
 ### Connect with me:
 
@@ -15,7 +38,7 @@
 
 <br />
 
-### Languages and Tools:
+### Languages and Tools Used:
 
 <img align="left" alt="Python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
 <img align="left" alt="R" width="26px" src="https://www.r-project.org/logo/Rlogo.svg" />
@@ -24,25 +47,6 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-
-<br />
-<br />
-
----
-
-### 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-- [Next Level GitHub Profile README (NEW) | How To Create An Amazing Profile ReadMe With GitHub Actions](https://www.youtube.com/watch?v=ECuqb5Tv9qI)
-<!-- YOUTUBE:END -->
-
----
-
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-<!-- BLOG-POST-LIST:END -->
-
----
 
 <img align="left" alt="Junhua's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mataiscat&show_icons=true&hide_border=true" />
 
