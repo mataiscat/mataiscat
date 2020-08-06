@@ -1,11 +1,11 @@
 ### Hi there, I'm Junhua, or June 👋
 
 ## I'm a Student, Gamer, and Wannabe Programmer!
-- 🔭 I’m currently working on a B.A. in Neuroscience!
+- 🔬 I’m currently working on a B.A. in Neuroscience!
 - 🌱 I want to learn everything 🤣
 - 👯 I’m currently looking for a Data Science job
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I am a textbook INFJ personality type.
+- ⚡ Fun fact: I like 🏊🏄🎿🎮🎸🎤🎬📖
 
 ---
 
@@ -30,6 +30,9 @@
 
 
 ---
+
+<br />
+<br />
 
 ### Connect with me:
 
