@@ -13,7 +13,7 @@
 
 - 🏆 [Regression: Predict the money made on loans issued by a bank](https://github.com/mataiscat/STAT301-3-regression) (ranked 1 out of 69 from a class [Kaggle](https://www.kaggle.com/c/nustat3013reg) competition)
 - [Classification: Predict game outcome from first 10 minutes of League of Legends plays](https://github.com/mataiscat/STAT301-3-final-project)
-- [Classification: Predict new user bookings](https://github.com/mataiscat/STAT301-1-final-project)
+- [Classification: Predict new user bookings for their first travel experience](https://github.com/mataiscat/STAT301-1-final-project)
 - [Neural Network: Predict taste experience of laboratory mice based on facial expression](https://github.com/mataiscat/lee-lab-taste)
 - [Autoencoder: Compare neuronal population dynamics during decision making with the Steinmetz's dataset](https://github.com/mataiscat/)
 
