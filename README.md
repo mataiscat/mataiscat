@@ -11,7 +11,7 @@
 
 ### 💥 Selected Project Repos
 
-- 🏆 [Regression: Predict the money made on loans issued by a bank](https://github.com/mataiscat/STAT301-3-regression) (ranked 1 out of 69 from a class Kaggle competition)
+- 🏆 [Regression: Predict the money made on loans issued by a bank](https://github.com/mataiscat/STAT301-3-regression) (ranked 1 out of 69 from a [class Kaggle competition](https://www.kaggle.com/c/nustat3013reg))
 - [Classification: Predicting game outcome from first 10 minutes of League of Legends plays](https://github.com/mataiscat/STAT301-3-final-project)
 - [Classification: Predicting new user bookings](https://github.com/mataiscat/STAT301-1-final-project)
 - [Neural Network: Predict taste experience of laboratory mice based on facial expression](https://github.com/mataiscat/lee-lab-taste)
@@ -40,9 +40,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="mataiscat" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="mataiscat | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="mataiscat | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="mataiscat | Kaggle" width="22px" src="https://www.analyticsvidhya.com/wp-content/uploads/2015/06/kaggle-logo-transparent-300.png" />][Kaggle]
 
 <br />
 <br />
@@ -67,3 +68,4 @@
 [website]: https://github.com/mataiscat
 [youtube]: https://www.youtube.com/channel/UCGVY8MbaKWbF13etY7X-2_g?view_as=subscriber
 [linkedin]: https://www.linkedin.com/in/junhua-tan-b5544a195/
+[kaggle]: https://www.kaggle.com/junhuatan
