@@ -11,21 +11,22 @@
 
 ### ⭐ Some Project Repos
 
-- [Predicting: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
+- 🏆 [Regression: Predict the money made on loans issued by a bank](https://github.com/mataiscat/STAT301-3-regression) (ranked 1 out of 69 from a class Kaggle competition)
+- [Classification: Predict whether a borrower pays off a small or large amount of their principal](https://github.com/mataiscat/STAT301-3-classification) 
+- [Classification: Predicting presence of heart disease on a patient](https://github.com/mataiscat/STAT301-2-final-project)
+- [Classification: Predicting game outcome from first 10 minutes of League of Legends plays](https://github.com/mataiscat/STAT301-3-final-project)
+- [Classification: Predicting new user bookings](https://github.com/mataiscat/STAT301-1-final-project)
+- [Noted.: An Integrated Note-taking Website for Students](https://github.com/Noted-U/noted)
 
 
 ---
 
 ### 📕 Latest Blog Posts
 
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-
 
 ---
 
 ### 📺 Latest YouTube Videos
-
-- [Next Level GitHub Profile README (NEW) | How To Create An Amazing Profile ReadMe With GitHub Actions](https://www.youtube.com/watch?v=ECuqb5Tv9qI)
 
 
 ---
