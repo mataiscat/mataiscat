@@ -37,7 +37,6 @@
 - [Noted.: An Integrated Note-taking Website for Students](https://github.com/Noted-U/noted)
 
 <br />
-<br />
 
 ### Connect with me:
 
