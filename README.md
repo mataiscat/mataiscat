@@ -26,7 +26,7 @@
 
 ### 📺 Latest YouTube Videos
 
-= [Comparing the neural population dynamics of mice during a visual discrimination task](https://youtu.be/p0L0yrXQWqU)
+- [Comparing the neural population dynamics of mice during a visual discrimination task](https://youtu.be/p0L0yrXQWqU)
 
 ---
 
