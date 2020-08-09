@@ -1,4 +1,4 @@
-### Hi there, I'm Junhua, or June 👋
+### Hi there, I'm Junhua, or call me June 👋
 
 ## I'm a Student, Gamer, and Wannabe Programmer!
 - 🔬 I’m currently working on a B.A. in Neuroscience!
