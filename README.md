@@ -14,12 +14,12 @@
 The following list contains some of my projects that I've done over the years. These projects are grouped in these categories according to the skills used:
 
 1. Data Cleaning + Analytics
-    - [Visualization: User demographics and preferences for predicting their first travel experience](https://github.com/mataiscat/junhuatan_portfolio.github.io/tree/master/Travel%20Location)
+    - [Visualization: User demographics and preferences for predicting their first travel experience](https://github.com/mataiscat/STAT301-1-final-project)
 2. Research Projects: Experimentations and Metrics
-    - [Lee Lab Neurobiology of Taste: Taste experience of laboratory mice](https://github.com/mataiscat/junhuatan_portfolio.github.io/tree/master/Taste%20Experience)
+    - [Lee Lab Neurobiology of Taste: Taste experience of laboratory mice](https://github.com/mataiscat/lee-lab-taste)
 3. Model Building
-    - 🏆 [Regression: Predict the money made on loans issued by a bank](https://github.com/mataiscat/junhuatan_portfolio.github.io/tree/master/Bank%20Loan%20Decision) (ranked 1 out of 69 from a class [Kaggle](https://www.kaggle.com/c/nustat3013reg) competition)
-    - [Classification: Predict game outcome from first 10 minutes of League of Legends plays](https://github.com/mataiscat/junhuatan_portfolio.github.io/tree/master/MOBA%20Game%20Outcome)
+    - 🏆 [Regression: Predict the money made on loans issued by a bank](https://github.com/mataiscat/STAT301-3-regression) (ranked 1 out of 69 from a class [Kaggle](https://www.kaggle.com/c/nustat3013reg) competition)
+    - [Classification: Predict game outcome from first 10 minutes of League of Legends plays](https://github.com/mataiscat/STAT301-3-final-project)
     - [Classification: Predicting presence of heart disease on a patient](https://github.com/mataiscat/STAT301-2-final-project)
 
 ---
