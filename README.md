@@ -24,31 +24,14 @@ The following list contains some of my projects that I've done over the years. T
 
 ---
 
-### 📺 Latest YouTube Videos
+### Contact Me
 
-- [Comparing the neural population dynamics of mice during a visual discrimination task](https://youtu.be/p0L0yrXQWqU)
+| Contact Method |  |
+| --- | --- |
+| Email | junhuatan2021@u.northwestern.edu |
+| LinkedIn | https://www.linkedin.com/in/junhua-tan-b5544a195/ |
+| Kaggle | https://www.kaggle.com/junhuatan |
 
----
-
-### 📚 Other Projects
-
-- [Classification: Predict whether a borrower pays off a small or large amount of their principal](https://github.com/mataiscat/STAT301-3-classification)
-- [Classification: Predicting presence of heart disease on a patient](https://github.com/mataiscat/STAT301-2-final-project)
-- [Noted.: An Integrated Note-taking Website for Students](https://github.com/Noted-U/noted)
-
-<br />
-
----
-
-### Connect with me:
-
-[<img align="left" alt="mataiscat" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="mataiscat | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="mataiscat | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="mataiscat | Kaggle" width="22px" src="https://www.analyticsvidhya.com/wp-content/uploads/2015/06/kaggle-logo-transparent-300.png" />][Kaggle]
-
-<br />
-<br />
 
 ### Languages and Tools Used:
 
@@ -66,10 +49,3 @@ The following list contains some of my projects that I've done over the years. T
 ### My Github Stats:
 
 <img align="left" alt="Junhua's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mataiscat&show_icons=true&hide_border=true" />
-
-### Contact Me
-
-| Contact Method |  |
-| --- | --- |
-| Email | junhuatan2021@u.northwestern.edu |
-| LinkedIn | https://www.linkedin.com/in/junhua-tan-b5544a195/ |
