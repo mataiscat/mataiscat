@@ -14,7 +14,7 @@
 The following list contains some of my projects that I've done over the years. These projects are grouped in these categories according to the skills used:
 
 1. Data Cleaning + Analytics
-    - [Visualization: User demographics and preferences for predicting their first travel experience](https://github.com/mataiscat/STAT301-1-final-project)
+    - [Visualization: User demographics and preferences for predicting their first travel experience](https://github.com/mataiscat/STAT301-1-final-project/tree/master/EDA)
 2. Research Projects: Experimentations and Metrics
     - [Lee Lab Neurobiology of Taste: Taste experience of laboratory mice](https://github.com/mataiscat/lee-lab-taste)
 3. Model Building
