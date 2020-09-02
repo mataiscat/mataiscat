@@ -32,7 +32,7 @@ The following list contains some of my projects that I've done over the years. T
 | LinkedIn | https://www.linkedin.com/in/junhua-tan-b5544a195/ |
 | Kaggle | https://www.kaggle.com/junhuatan |
 
-<br />
+---
 
 ### Languages and Tools Used:
 
