@@ -32,6 +32,7 @@ The following list contains some of my projects that I've done over the years. T
 | LinkedIn | https://www.linkedin.com/in/junhua-tan-b5544a195/ |
 | Kaggle | https://www.kaggle.com/junhuatan |
 
+<br />
 
 ### Languages and Tools Used:
 
@@ -43,7 +44,6 @@ The following list contains some of my projects that I've done over the years. T
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Google Colab" width="26px" src="https://colab.research.google.com/img/colab_favicon_256px.png" />
 
-<br />
 <br />
 
 ### My Github Stats:
