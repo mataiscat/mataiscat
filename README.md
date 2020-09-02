@@ -11,16 +11,16 @@
 
 ### 💥 Selected Project Repos
 
-- 🏆 [Regression: Predict the money made on loans issued by a bank](https://github.com/mataiscat/STAT301-3-regression) (ranked 1 out of 69 from a class [Kaggle](https://www.kaggle.com/c/nustat3013reg) competition)
-- [Classification: Predict game outcome from first 10 minutes of League of Legends plays](https://github.com/mataiscat/STAT301-3-final-project)
-- [Classification: Predict new user bookings for their first travel experience](https://github.com/mataiscat/STAT301-1-final-project)
-- [Neural Network: Predict taste experience of laboratory mice based on facial expression](https://github.com/mataiscat/lee-lab-taste)
-- [Autoencoder: Compare neuronal population dynamics during decision making with the Steinmetz's dataset](https://github.com/mataiscat/)
+The following list contains some of my projects that I've done over the years. These projects are grouped in these categories according to the skills used:
 
----
-
-### 📕 Latest Blog Posts
-
+1. Data Cleaning + Analytics
+    - [Visualization: User demographics and preferences for predicting their first travel experience](https://github.com/mataiscat/junhuatan_portfolio.github.io/tree/master/Travel%20Location)
+2. Research Projects: Experimentations and Metrics
+    - [Lee Lab Neurobiology of Taste: Taste experience of laboratory mice](https://github.com/mataiscat/junhuatan_portfolio.github.io/tree/master/Taste%20Experience)
+3. Model Building
+    - 🏆 [Regression: Predict the money made on loans issued by a bank](https://github.com/mataiscat/junhuatan_portfolio.github.io/tree/master/Bank%20Loan%20Decision) (ranked 1 out of 69 from a class [Kaggle](https://www.kaggle.com/c/nustat3013reg) competition)
+    - [Classification: Predict game outcome from first 10 minutes of League of Legends plays](https://github.com/mataiscat/junhuatan_portfolio.github.io/tree/master/MOBA%20Game%20Outcome)
+    - [Classification: Predicting presence of heart disease on a patient](https://github.com/mataiscat/STAT301-2-final-project)
 
 ---
 
@@ -32,7 +32,7 @@
 
 ### 📚 Other Projects
 
-- [Classification: Predict whether a borrower pays off a small or large amount of their principal](https://github.com/mataiscat/STAT301-3-classification) 
+- [Classification: Predict whether a borrower pays off a small or large amount of their principal](https://github.com/mataiscat/STAT301-3-classification)
 - [Classification: Predicting presence of heart disease on a patient](https://github.com/mataiscat/STAT301-2-final-project)
 - [Noted.: An Integrated Note-taking Website for Students](https://github.com/Noted-U/noted)
 
@@ -67,7 +67,9 @@
 
 <img align="left" alt="Junhua's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mataiscat&show_icons=true&hide_border=true" />
 
-[website]: https://github.com/mataiscat
-[youtube]: https://www.youtube.com/channel/UCGVY8MbaKWbF13etY7X-2_g?view_as=subscriber
-[linkedin]: https://www.linkedin.com/in/junhua-tan-b5544a195/
-[kaggle]: https://www.kaggle.com/junhuatan
+### Contact Me
+
+| Contact Method |  |
+| --- | --- |
+| Email | junhuatan2021@u.northwestern.edu |
+| LinkedIn | https://www.linkedin.com/in/junhua-tan-b5544a195/ |
